@@ -1,0 +1,15 @@
+# Archivos autogenerados en ejecución
+config_cdp.json
+codigos_cazados.txt
+
+# Entornos virtuales y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Binarios locales opcionales
+Tesseract-OCR/
+chrome_sniper_profile/
